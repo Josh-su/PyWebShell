@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+# Add any other external libraries your backend apps (like mindmap_cli) might use here.
+# For example, if you used 'colorama' for coloring:
+# colorama
